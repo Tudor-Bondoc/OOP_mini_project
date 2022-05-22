@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1642003400 source:d:\facultate\an2\poo\laboratoare\laborator recapitulativ\lab\piesa.cpp
+	"Piesa.h"
+	<iostream>
+	<cstring>
+
+1642003612 d:\facultate\an2\poo\laboratoare\laborator recapitulativ\lab\piesa.h
+	<iostream>
+
+1642003596 source:d:\facultate\an2\poo\laboratoare\laborator recapitulativ\lab\main.cpp
+	<iostream>
+	"Ansamblu.h"
+	<fstream>
+
+1642003562 d:\facultate\an2\poo\laboratoare\laborator recapitulativ\lab\ansamblu.h
+	"Piesa_A.h"
+	"Piesa_B.h"
+	"Piesa.h"
+
+1642003413 d:\facultate\an2\poo\laboratoare\laborator recapitulativ\lab\piesa_a.h
+	"Piesa.h"
+
+1642003545 d:\facultate\an2\poo\laboratoare\laborator recapitulativ\lab\piesa_b.h
+	"Piesa.h"
+	<iostream>
+
+1642003653 source:d:\facultate\an2\poo\laboratoare\laborator recapitulativ\lab\ansamblu.cpp
+	"Ansamblu.h"
+
+1642003662 source:d:\facultate\an2\poo\laboratoare\laborator recapitulativ\lab\piesa_b.cpp
+	"Piesa_B.h"
+	<iostream>
+	<cstring>
+
+1642003658 source:d:\facultate\an2\poo\laboratoare\laborator recapitulativ\lab\piesa_a.cpp
+	"Piesa_A.h"
+	<iostream>
+	<cstring>
+
+1642007253 source:d:\facultate\an2\semestrul 1\poo\laboratoare\laborator recapitulativ\lab\ansamblu.cpp
+	"Ansamblu.h"
+
+1642007162 d:\facultate\an2\semestrul 1\poo\laboratoare\laborator recapitulativ\lab\ansamblu.h
+	"Piesa_A.h"
+	"Piesa_B.h"
+	"Piesa.h"
+
+1642007013 d:\facultate\an2\semestrul 1\poo\laboratoare\laborator recapitulativ\lab\piesa_a.h
+	"Piesa.h"
+
+1642007212 d:\facultate\an2\semestrul 1\poo\laboratoare\laborator recapitulativ\lab\piesa.h
+	<iostream>
+
+1642007145 d:\facultate\an2\semestrul 1\poo\laboratoare\laborator recapitulativ\lab\piesa_b.h
+	"Piesa.h"
+	<iostream>
+
+1642007196 source:d:\facultate\an2\semestrul 1\poo\laboratoare\laborator recapitulativ\lab\main.cpp
+	<iostream>
+	"Ansamblu.h"
+	<fstream>
+
+1642007000 source:d:\facultate\an2\semestrul 1\poo\laboratoare\laborator recapitulativ\lab\piesa.cpp
+	"Piesa.h"
+	<iostream>
+	<cstring>
+
+1642007258 source:d:\facultate\an2\semestrul 1\poo\laboratoare\laborator recapitulativ\lab\piesa_a.cpp
+	"Piesa_A.h"
+	<iostream>
+	<cstring>
+
+1642007262 source:d:\facultate\an2\semestrul 1\poo\laboratoare\laborator recapitulativ\lab\piesa_b.cpp
+	"Piesa_B.h"
+	<iostream>
+	<cstring>
+
